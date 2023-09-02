@@ -1,40 +1,28 @@
-/* Main color scheme */
-.dropmenu {
+
+.dropmenu{
     position: absolute;
-    background-color: #FFFFFF; /* White background */
+    background-color: white;
     font-size: 1rem;
     font-family: Arial, Helvetica, sans-serif;
+    /* padding: 0 15px; */
     top: 55px;
     left: 470px;
-    border: 1px solid #E0E0E0; /* Light gray border */
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    z-index: 1;
-    display: none;
-    min-width: 200px;
+    border: 1px solid rgb(197, 197, 197);
 }
 
-/* Show the dropdown menu when the parent element is hovered */
-.dropmenu-parent:hover .dropmenu {
-    display: block;
+.dropmenu:hover{
+    cursor: pointer;
 }
 
-/* Style for each item in the dropdown menu */
-.a {
+.a:hover{
+    background-color: rgb(233, 230, 230); 
+}
+
+.a{
     padding: 10px 15px;
-    margin: 0;
-    display: block;
-    text-decoration: none;
-    color: #333;
-    transition: background-color 0.2s;
+    margin: 5px 0;
 }
 
-/* Change background color on hover */
-.a:hover {
-    background-color: #F2F3F4; /* Light blue-gray on hover */
-    color: #2874F0; /* Flipkart blue */
-}
-
-hr {
-    border-width: 1px 0 0 0;
-    border-color: #E0E0E0; /* Light gray separator line */
+hr{
+    border-width: 1px 0 0 0; 
 }
