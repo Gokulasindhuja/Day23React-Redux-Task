@@ -10,7 +10,7 @@ let items =[
     },
     {
         id:2,
-        image:"./shop/IQOO Neo.png",
+        image:"./shop/IQOO-Neo.png",
         title: "Vivo MObile",
         rating:"⭐⭐⭐⭐⭐",
         cost:"29,000",
@@ -19,7 +19,7 @@ let items =[
     },
     {
         id:3,
-        image:"./shop/Realme Narzo 20A.png",
+        image:"./shop/Realme-Narzo-20A.png",
         title: "MI",
         rating:"⭐⭐⭐⭐",
         cost:"19,000",
@@ -37,7 +37,7 @@ let items =[
     },
     {
         id:5,
-        image:"./shop/Samsung Universe 9.png",
+        image:"./shop/Samsung-Universe-9.png",
         title: "Sale Item",
         rating:"⭐⭐⭐⭐",
         cost:" 33,000",
@@ -46,7 +46,7 @@ let items =[
     },
     {
         id:6,
-        image:"./shop/Apple Airpods.png",
+        image:"./shop/Apple-Airpods.png",
         title: "Ear Product",
         rating:"⭐⭐⭐⭐",
         cost:"$15,000",
@@ -64,7 +64,7 @@ let items =[
     },
     {
         id:8,
-        image:"./shop/Sony PlayStation 4 Pro",
+        image:"./shop/Sony-PlayStation-4-Pro",
         title: "Popular Item",
         rating:"⭐⭐⭐",
         cost:"88,900",
