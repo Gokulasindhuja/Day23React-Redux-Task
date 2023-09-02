@@ -11,7 +11,7 @@ let items =[
     {
         id:2,
         image:"./shop/IQOO-Neo.png",
-        title: "Vivo MObile",
+        title: "Vivo Mobile",
         rating:"⭐⭐⭐⭐⭐",
         cost:"29,000",
         btn:"Add to cart",
@@ -20,7 +20,7 @@ let items =[
     {
         id:3,
         image:"./shop/Realme-Narzo-20A.png",
-        title: "MI",
+        title: "Realme",
         rating:"⭐⭐⭐⭐",
         cost:"19,000",
         btn:"Add to cart",
@@ -47,7 +47,7 @@ let items =[
     {
         id:6,
         image:"./shop/Apple-Airpods.png",
-        title: "Ear Product",
+        title: "Music Product",
         rating:"⭐⭐⭐⭐",
         cost:"$15,000",
         btn:"View option",
@@ -64,7 +64,7 @@ let items =[
     },
     {
         id:8,
-        image:"./shop/Sony-PlayStation-4-Pro",
+        image:"./shop/Sony-PlayStation-4-Pro.png",
         title: "Popular Item",
         rating:"⭐⭐⭐",
         cost:"88,900",
